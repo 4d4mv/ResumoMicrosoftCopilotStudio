@@ -1,4 +1,4 @@
-# ResumoMicrosoftCopilotStudio
+# Resumo inicial sobre o Microsoft Copilot Studio
 Repositório do lab "Criando o primeiro Copiloto no Microsoft Copilot Studio" da Digital Innovation One.
 
 Aprendi que:
